@@ -388,37 +388,6 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "samples": [
                 
-{
-        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 1 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187452.m3u8",
-        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
-      },
-{
-        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 2 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187456.m3u8",
-        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
-      },
-	    {
-        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 3 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187458.m3u8",
-        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
-      },
-{
-        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV +",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187450.m3u8",
-        "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
-      },
-{
-        "name": "SPORT TV + PORTUGAL",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
-        "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
-      },
-
-{
-        "name": "A BOLA TV PORTUGAL",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187446.m3u8",
-        "icono": "https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg"
-      },
 	    {
         "name": "BEIN SPORTS XTRA Ñ",
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/775128",
@@ -434,17 +403,6 @@
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/775129",
         "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQEUAzPxQZnRYqMkIa-7MYw06smnmL7aAw4ZPDTEw=s900-c-k-c0x00ffffff-no-rj"
       },
-{
-        "name": "SSC 1",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167576.m3u8",
-        "icono": "https://www.matnnews.com/UploadCache/libfiles/15/8/600x338o/539.png"
-      },
-{
-        "name": "SSC 2",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167577.m3u8",
-        "icono": "https://www.matnnews.com/UploadCache/libfiles/15/8/600x338o/539.png"
-      },
-
 {
         "name": "EUROSPORT 1 HD",
         "uri": "https://multiextrem.live:8443/live/Usuario0909884/Pass8d99835/572231.m3u8",
@@ -702,7 +660,7 @@
         "uri": "https://multiextrem.live:8443/live/Usuario0909884/Pass8d99835/565952.m3u8",
         "icono": "http://imgfz.com/i/8NP5UE3.png"
       },
-	      {
+ {
         "name": "TUDN EXTRA",
         "uri": "https://multiextrem.live:8443/live/Usuario0909884/Pass8d99835/774317.m3u8",
         "icono": "https://luxplayer.norago.tv/img/resize/235x332/8e765d2f-06b2-42b1-8f99-471998ec45bc.png"
@@ -730,8 +688,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
         "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
       },
-      
-     {
+          {
         "name": "LIGA 1 PERÚ",
         "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/330757",
         "icono": "https://4.bp.blogspot.com/-a-9yOEBzUF0/XDUPwBTk0HI/AAAAAAABTp4/fs9Ss5TRJAwleiM2qZqXXWCevyhkp-1QwCLcBGAs/s1600/Liga1PeruW.png"
