@@ -653,6 +653,18 @@
         "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/339561",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       },
+{
+        "name": "BEIN SPORTS EXTRA Ñ",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
+        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
+      },
+      {
+        "name": "AMERICA SPORTS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
+        "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
+      },
       
      {
         "name": "LIGA 1 PERÚ",
